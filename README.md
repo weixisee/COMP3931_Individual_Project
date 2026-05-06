@@ -1,4 +1,4 @@
-# Removing Demographic Bias in Chest X-ray Classification using Adversarial Unlearning
+# Removing Demographic Bias in Chest X-ray Classification Model using Adversarial Unlearning
 Individual Project (COMP3931) for BSc Computer Science 2025/26 at the University of Leeds by Wei Xi See.
 
 
